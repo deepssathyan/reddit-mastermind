@@ -1,6 +1,6 @@
 # Reddit Mastermind - Content Calendar Algorithm
 
-Strategic planning algorithm for Reddit marketing campaigns. Handles scheduling, persona rotation, pattern prevention, and quality scoring.
+A lightweight planning engine that generates natural, non-spammy Reddit posting calendars using personas, subreddit constraints, and pattern-variation logic. Designed for founders, marketers, and growth teams who want human-sounding Reddit presence without detection risks.
 
 ## 🔗 Live Demo
 
