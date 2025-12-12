@@ -19,6 +19,8 @@ Strategic planning algorithm for Reddit marketing campaigns. Handles scheduling,
 
 ### Installation
 
+![App Preview](assets/Preview.jpg)
+
 ### Badges
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
 ![React](https://img.shields.io/badge/React-18-blue)
