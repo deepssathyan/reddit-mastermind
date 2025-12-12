@@ -2,6 +2,10 @@
 
 Strategic planning algorithm for Reddit marketing campaigns. Handles scheduling, persona rotation, pattern prevention, and quality scoring.
 
+## 🔗 Live Demo
+
+> Deployed on Vercel: **https://reddit-mastermind-8nwjowc65.vercel.app/**
+
 ## 🎯 Features
 
 - **Intelligent Scheduling**: Distributes posts across days/times based on persona patterns
@@ -14,4 +18,9 @@ Strategic planning algorithm for Reddit marketing campaigns. Handles scheduling,
 ## 🚀 Quick Start
 
 ### Installation
-```bash
+
+### Badges
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwindcss](https://img.shields.io/badge/TailwindCSS-3.4-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
